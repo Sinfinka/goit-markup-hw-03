@@ -75,8 +75,6 @@ img {
   width: 1158px;
   margin-right: auto;
   margin-left: auto;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 
 /* header */
@@ -92,8 +90,7 @@ img {
   align-items: center;
   padding-top: 24px;
   padding-bottom: 24px;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding: 0 15px;
 }
 
 .navigation {
